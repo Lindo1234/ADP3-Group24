@@ -7,6 +7,8 @@ import org.junit.jupiter.api.Test;
 import static java.time.Duration.ofMillis;
 import static org.junit.jupiter.api.Assertions.*;
 
+//@Author Lindokuhle xaki 215041720
+
 class AdditionTest {
 
 
